@@ -13,3 +13,6 @@
 
 
 ![alt text](Task6_2.png)
+
+
+![alt text](Task6_3.png)
