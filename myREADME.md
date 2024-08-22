@@ -16,3 +16,8 @@
 
 
 ![alt text](Task6_3.png)
+
+
+задача 6.1
+
+![alt text](Task6.1_1.png)
